@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Solana Sentinel Node 🐋
 
 A professional, mobile-first Python suite designed for real-time monitoring of the Solana Mainnet. This project demonstrates high-performance blockchain interaction and secure DevOps practices within a **Termux (Android Linux)** environment.
@@ -21,3 +22,6 @@ The **Solana Sentinel** provides a lightweight bridge between mobile infrastruct
    git clone [https://github.com/cchughiefe-art/solana-sentinel-node.git](https://github.com/cchughiefe-art/solana-sentinel-node.git)
    cd solana-sentinel-node
    
+=======
+# Solana Sentinel Node
+>>>>>>> 9dc1a9b (Initial commit: Secure Solana Sentinel)
